@@ -25,6 +25,7 @@ Strategies to prevent budget overruns include:
 *Waterfall Methodology* is a traditional, linear approach to project management. It divides the project into sequential phases: requirements, design, implementation, testing, and deployment. Each phase must be completed before the next begins, and changes are difficult to implement once a phase is finished. Waterfall is often used in industries where requirements are well-defined and unlikely to change, such as construction or manufacturing.
 
 Advantages and Disadvantages
+
 Agile Methodology
 
 Advantages:
