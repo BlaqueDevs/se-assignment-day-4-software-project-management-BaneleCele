@@ -112,10 +112,11 @@ Why High Standards Matter
 
 *Work Breakdown Structure (WBS):* A Work Breakdown Structure (WBS) is a hierarchical decomposition of the total work to be executed by the project team to accomplish the project objectives. It breaks down the project scope into manageable components, allowing for clearer assignment of tasks, easier estimation of effort and cost, and better tracking of progress. WBS is useful because:
 
-Clarifies work to be performed by breaking it into smaller, more manageable parts
-Facilitates accurate estimation of costs and timelines by focusing on individual tasks
-Enhances communication among team members by providing a common framework for discussing project components
-Improves risk management by identifying the critical parts of the project and allowing for focused risk assessment
+- Clarifies work to be performed by breaking it into smaller, more manageable parts
+- Facilitates accurate estimation of costs and timelines by focusing on individual tasks
+- Enhances communication among team members by providing a common framework for discussing project components
+- Improves risk management by identifying the critical parts of the project and allowing for focused risk assessment
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
