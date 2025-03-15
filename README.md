@@ -69,6 +69,22 @@ Examples of Agile Projects:
 - Mobile app development: Consider a fitness app where initial features like workout tracking are released, and user feedback leads to later additions like social sharing or gamified challenges.
 - Marketing campaigns: A digital ad campaign might start with a small set of ads, then adjust targeting or messaging based on real-time analytics after each sprint.
 - Research and development (R&D): A pharmaceutical team developing a new drug could use Agile to iterate on clinical trials, adapting the approach as test results emerge.
+
+When is Waterfall More Beneficial Than Agile?
+
+Waterfall is a linear, sequential methodology that shines in projects requiring structure, predictability, and stability. It’s more beneficial when:
+
+- Requirements are clear and stable: Waterfall works best when the project scope is well-defined from the start and changes are unlikely.
+- Documentation and compliance matter: Its phased approach ensures thorough documentation at each step, which is critical for regulated industries.
+- Changes are costly or risky: Waterfall’s structure avoids mid-project alterations, making it suitable for projects where revisions would be expensive or impractical.
+- Predictability is essential: Detailed planning upfront allows for accurate timelines, budgets, and resource allocation, ideal for fixed-deadline or fixed-budget projects.
+
+Examples of Waterfall Projects:
+
+- Highway bridge construction: The design is finalized before breaking ground, as mid-build changes could be costly, time-consuming, or unsafe.
+- Hardware manufacturing: Producing a new smartphone model follows a strict sequence—design, prototyping, production, testing—where altering plans after production starts is inefficient.
+- Government regulatory projects: Building a tax software system for a government agency often demands strict adherence to predefined specifications and extensive documentation for compliance.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
