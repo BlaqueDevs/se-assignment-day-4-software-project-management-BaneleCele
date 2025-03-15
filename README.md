@@ -86,6 +86,27 @@ Examples of Waterfall Projects:
 - Government regulatory projects: Building a tax software system for a government agency often demands strict adherence to predefined specifications and extensive documentation for compliance.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods for Ensuring Quality Assurance
+
+1. Requirements Analysis - Define clear, testable requirements.
+2. Design Reviews - Spot design issues early.
+3. Unit Testing - Test components individually.
+4. Integration Testing - Check module compatibility.
+5. System Testing - Confirm full system functionality.
+6. User Acceptance Testing (UAT) - Validate with real users.
+7. Continuous Integration and Continuous Deployment (CI/CD) - Automate testing and deployment.
+8. Code Reviews - Enhance code via peer checks.
+9. Static Code Analysis - Scan for code flaws.
+10. Defect Tracking - Track and fix bugs.
+
+Why High Standards Matter
+
+- Customer Satisfaction: Quality builds trust; flaws lose users.
+- Cost-Effectiveness: Early fixes save money.
+- Reputation: Reliability boosts credibility.
+- Compliance: Meets legal/industry rules.
+- Safety: Prevents critical failures
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
