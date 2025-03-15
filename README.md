@@ -55,6 +55,20 @@ Disadvantages:
 - Risk of customer dissatisfaction if the final product does not meet expectations
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+When is Agile More Beneficial Than Waterfall?
+
+Agile is a methodology that excels in projects where flexibility, adaptability, and collaboration are key. It’s particularly advantageous in the following scenarios:
+
+- Unclear or evolving requirements: Agile allows teams to adjust to changing needs without derailing the project, making it ideal when the end goal isn’t fully defined upfront.
+- Frequent feedback: Its iterative nature delivers small, usable increments of work (e.g., in sprints), enabling regular input from stakeholders or users to refine the product.
+- Early and continuous delivery: Agile prioritizes delivering functional outputs quickly and consistently, providing value sooner and allowing for ongoing improvements.
+- Collaboration and innovation: With its emphasis on teamwork and customer involvement, Agile suits projects that thrive on creativity or experimentation.
+
+Examples of Agile Projects:
+
+- Mobile app development: Consider a fitness app where initial features like workout tracking are released, and user feedback leads to later additions like social sharing or gamified challenges.
+- Marketing campaigns: A digital ad campaign might start with a small set of ads, then adjust targeting or messaging based on real-time analytics after each sprint.
+- Research and development (R&D): A pharmaceutical team developing a new drug could use Agile to iterate on clinical trials, adapting the approach as test results emerge.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
