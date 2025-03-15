@@ -44,6 +44,7 @@ Advantages:
 - Clear structure with defined phases
 - Easier project management and documentation
 - Predictable cost and schedule
+
 Disadvantages:
 
 - Inflexible to changes after project initiation
