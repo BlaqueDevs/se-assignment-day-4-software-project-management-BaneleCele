@@ -26,6 +26,7 @@ Strategies to prevent budget overruns include:
 
 Advantages and Disadvantages
 Agile Methodology
+
 Advantages:
 - Adaptability to changes
 - Frequent delivery of functional software
@@ -39,6 +40,7 @@ Disadvantages:
 - Can be challenging for large teams without clear direction
 
 Waterfall Methodology
+
 Advantages:
 
 - Clear structure with defined phases
