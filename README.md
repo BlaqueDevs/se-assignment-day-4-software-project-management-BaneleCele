@@ -129,7 +129,25 @@ Gantt charts are a popular tool for creating and visualizing project schedules b
 - Enhance Monitoring: They enable project managers to track progress against the plan, quickly identifying delays or issues that need attention.
 
 Together, a detailed project schedule and Gantt charts empower project teams to plan, execute, and adjust as needed, ensuring that projects are delivered on time and within scope.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core Issues Addressed:
+
+Assuming my software is a project management tool, it targets:
+
+- Inefficient scheduling: Difficulty planning and tracking timelines.
+- Poor resource allocation: Overloading or underutilizing team members.
+- Lack of visibility: Unclear progress updates for stakeholders.
+
+Significance to Target Audience:
+
+These issues are critical for project managers (the target audience) because:
+
+- Delays: Inefficient scheduling causes 50% of projects to miss deadlines (PMI, 2023).
+- Cost overruns: Poor resource use wastes budget, with 30% of projects exceeding costs (Saviom, 2023).
+- Trust: Lack of visibility erodes stakeholder confidence, risking project support.
+- Solving these boosts efficiency, cuts costs, and ensures successful delivery.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
