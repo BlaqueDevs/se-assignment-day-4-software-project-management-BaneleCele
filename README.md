@@ -127,7 +127,7 @@ Gantt charts are a popular tool for creating and visualizing project schedules b
 - Show Dependencies: They illustrate task dependencies, which helps in understanding the critical path and potential bottlenecks.
 - Facilitate Communication: Gantt charts serve as an effective communication tool to keep stakeholders informed about the project's progress and any adjustments in timelines.
 - Enhance Monitoring: They enable project managers to track progress against the plan, quickly identifying delays or issues that need attention.
-- 
+
 Together, a detailed project schedule and Gantt charts empower project teams to plan, execute, and adjust as needed, ensuring that projects are delivered on time and within scope.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
